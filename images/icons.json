@@ -2,39 +2,43 @@
   "icons": [
     {
       "name": "Multi-cloud",
-      "url": "https://raw.githubusercontent.com/Eniola123456/Rover-badge-icons-repo/main/multi-cloud.png"
+      "url": "images/multi-cloud.svg"
     },
     {
       "name": "Virtual Collaboration",
-      "url": "https://raw.githubusercontent.com/Eniola123456/Rover-badge-icons-repo/main/virtual-collaboration.png"
+      "url": "images/virtual-collaboration.png"
+    },
+    {
+      "name": "Cluster",
+      "url": "images/cluster.svg"
+    },
+    {
+      "name": "Gear",
+      "url": "images/gear.svg"
     },
     {
       "name": "Lifecycle",
-      "url": "https://raw.githubusercontent.com/Eniola123456/Rover-badge-icons-repo/main/lifecycle.png"
+      "url": "images/lifecycle.png"
     },
     {
       "name": "Car",
-      "url": "https://raw.githubusercontent.com/Eniola123456/Rover-badge-icons-repo/main/car.png"
+      "url": "images/car.png"
     },
     {
       "name": "Lightning Bolt",
-      "url": "https://raw.githubusercontent.com/Eniola123456/Rover-badge-icons-repo/main/lightning-bolt.png"
+      "url": "images/lightning-bolt.png"
     },
     {
       "name": "Platform",
-      "url": "https://raw.githubusercontent.com/Eniola123456/Rover-badge-icons-repo/main/platform.png"
-    },
-    {
-      "name": "Container",
-      "url": "https://raw.githubusercontent.com/Eniola123456/Rover-badge-icons-repo/main/container.png"
+      "url": "images/platform.png"
     },
     {
       "name": "Bat (Black RH-HD)",
-      "url": "https://raw.githubusercontent.com/Eniola123456/Rover-badge-icons-repo/main/bat-black.png"
+      "url": "images/bat-black.png"
     },
     {
       "name": "Deployed Model",
-      "url": "https://raw.githubusercontent.com/Eniola123456/Rover-badge-icons-repo/main/deployed-model.png"
+      "url": "images/deployed-model.png"
     }
   ]
 }
